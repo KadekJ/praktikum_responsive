@@ -5,4 +5,4 @@
 4. heigth, sidebar, ukuran layar
 
 latihan 1
-!alt[text] {https://github.com/KadekJ/praktikum_responsive/blob/master/lat%201.jpg}
+![text alt] {https://github.com/KadekJ/praktikum_responsive/blob/master/lat%201.jpg}
